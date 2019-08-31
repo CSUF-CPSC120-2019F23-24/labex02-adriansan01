@@ -18,7 +18,7 @@ int main()
   area = length / width;
 
   // Display the area of the room.
-  std::cout << "The \"area\" of the room is 204.7 square feet./n";
+  std::cout << "The \"area\" of the room is 200 square feet./n";
 
   return 0;
 }
